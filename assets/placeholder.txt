@@ -1,0 +1,28 @@
+The following images are required for the portfolio:
+
+1. profile.jpg - A professional headshot or profile picture (recommended size: 500x500px)
+
+2. Skill Icons (80x80px):
+   - html.png - HTML5 logo
+   - css.png - CSS3 logo
+   - javascript.png - JavaScript logo
+   - react.png - React logo
+   - tailwind.png - Tailwind CSS logo
+   - github.png - GitHub logo
+   - node.png - Node.js logo
+   - python.png - Python logo
+
+3. Project Images (high-quality screenshots, 16:9 ratio recommended):
+   - project1.jpg - Screenshot of Weather Application
+   - project2.jpg - Screenshot of Task Manager
+   - project3.jpg - Screenshot of E-commerce Website
+
+You can use placeholder images from services like:
+- https://placeholder.com/
+- https://picsum.photos/
+- https://placehold.co/
+
+Or use icons from:
+- Font Awesome (already included)
+- https://devicon.dev/ (for tech stack icons)
+- Official brand websites 
